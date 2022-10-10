@@ -1,2 +1,2 @@
 ## my first readme
-first commit
+i am the best programmer in the world
